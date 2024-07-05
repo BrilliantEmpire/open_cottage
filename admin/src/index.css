@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.ant-table
+  .ant-table-container
+  .ant-table-content
+  table
+  thead.ant-table-thead
+  .ant-table-cell {
+  background-color: #f3f3f3;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #535353;
+}
+
+.ant-tabs-tab {
+  margin: 0;
+}
+
+.preview-icon {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.bg-dark-transparent {
+  background: rgba(0, 0, 0, 0.3);
+}
