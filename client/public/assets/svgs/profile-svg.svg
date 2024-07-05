@@ -1,0 +1,28 @@
+<svg width="1182" height="216" viewBox="0 0 1182 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.3">
+<mask id="mask0_367_47888" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="216">
+<path d="M0 0H1440V216H0V0Z" fill="#FEF7EF"/>
+</mask>
+<g mask="url(#mask0_367_47888)">
+<g opacity="0.4">
+<rect x="-15.5107" y="163.196" width="55.3435" height="55.3043" rx="5.5" stroke="#666666"/>
+<rect x="19.1006" y="145.5" width="38.4404" height="38.413" rx="5.5" stroke="#666666"/>
+</g>
+<g opacity="0.4">
+<rect x="214.5" y="79" width="86.5607" height="86.4999" rx="5.5" stroke="#666666"/>
+<rect x="268.287" y="51.5" width="60.2925" height="60.25" rx="5.5" stroke="#666666"/>
+</g>
+<g opacity="0.4">
+<rect x="-0.5" y="0.5" width="40.1155" height="40.087" rx="5.5" transform="matrix(-1 0 0 1 1122.78 42.9131)" stroke="#666666"/>
+<rect x="-0.5" y="0.5" width="27.7809" height="27.7609" rx="5.5" transform="matrix(-1 0 0 1 1097.52 30)" stroke="#666666"/>
+</g>
+<g opacity="0.4">
+<rect x="-0.5" y="0.5" width="40.1155" height="40.087" rx="5.5" transform="matrix(-1 0 0 1 995.693 130.913)" stroke="#666666"/>
+<rect x="-0.5" y="0.5" width="27.7809" height="27.7609" rx="5.5" transform="matrix(-1 0 0 1 970.437 118)" stroke="#666666"/>
+</g>
+<rect opacity="0.4" x="442" y="-10" width="59" height="42" rx="6" fill="#666666"/>
+<rect opacity="0.4" x="109" y="43" width="30.0208" height="30" rx="4" fill="#666666"/>
+<rect opacity="0.4" x="1128.78" y="157" width="62.0431" height="62" rx="4" fill="#666666"/>
+</g>
+</g>
+</svg>
